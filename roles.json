@@ -1,20 +1,40 @@
 {
-  "depelopelers": [
-    6172432366,
-    8739638907,
-    1922816586,
-    8063567723,
-    8193176720,
-    1443540323,
-    8946590964,
-    8223891242 
-   ],
-  "teams": [],
-  "creators": [],
-  "owners": [],
-  "ceos": [],
-  "moderators": [],
-  "partners": [],
-  "resellers": [],
-  "fullup": []
+  "admin.json": {
+    "owners": [
+      6172432366
+    ],
+    "admins": [
+      6172432366
+    ]
+  },
+  "owners.json": {
+    "owners": []
+  },
+  "resellers.json": {
+    "resellers": [
+      6172432366
+    ]
+  },
+  "partners.json": {
+    "partners": [
+      8491778984
+    ]
+  },
+  "moderators.json": {
+    "moderators": []
+  },
+  "ceos.json": {
+    "ceos": []
+  },
+  "depelopelers.json": {
+    "depelopelers": [
+      6172432366
+    ]
+  },
+  "fullup.json": {
+    "fullups": []
+  },
+  "teams.json": {
+    "teams": []
+  }
 }
